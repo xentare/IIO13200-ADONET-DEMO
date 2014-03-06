@@ -11,3 +11,6 @@ D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\JAMK.ICT.Properties.Reso
 D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\H10ADOBlanco.csproj.GenerateResource.Cache
 D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\ADONET.exe
 D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\ADONET.pdb
+D:\salesa\GitHubIP\IIO11300-WINDOWS-OHJELMOINTI\bin\Debug\ADONET.exe.config
+D:\salesa\GitHubIP\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\ADONET.exe
+D:\salesa\GitHubIP\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\ADONET.pdb
