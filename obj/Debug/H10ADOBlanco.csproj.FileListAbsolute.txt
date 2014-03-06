@@ -1,0 +1,13 @@
+D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\bin\Debug\ADONET.exe.config
+D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\bin\Debug\ADONET.exe
+D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\bin\Debug\ADONET.pdb
+D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\H10ADOBlanco.csprojResolveAssemblyReference.cache
+D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\MainWindow.baml
+D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\MainWindow.g.cs
+D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\App.g.cs
+D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\ADONET_MarkupCompile.cache
+D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\ADONET.g.resources
+D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\JAMK.ICT.Properties.Resources.resources
+D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\H10ADOBlanco.csproj.GenerateResource.Cache
+D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\ADONET.exe
+D:\salesa\GitHub\IIO11300-WINDOWS-OHJELMOINTI\obj\Debug\ADONET.pdb

@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Koodannut ja testannut toimivaksi 6.3.2014 Esa Salmikangas.
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
