@@ -48,5 +48,11 @@ namespace H10ADOBlanco
     {
       //TODO
     }
-  }
+
+        private void btnYield_Click(object sender, RoutedEventArgs e)
+        {
+            JAMK.ICT.DBPalcebo2015 roskaa = new JAMK.ICT.DBPalcebo2015();
+            MessageBox.Show(roskaa.Yield());
+        }
+    }
 }
