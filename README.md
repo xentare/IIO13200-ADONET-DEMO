@@ -1,4 +1,4 @@
-IIO11300-WINDOWS-OHJELMOINTI
+ADO.NET DEMO
 ============================
 
 Valmis UI ADO-demoja varten.
