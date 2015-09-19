@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace H10ADOBlanco
+namespace JAMK.ICT.ADOBlanco
 {
   /// <summary>
   /// Interaction logic for MainWindow.xaml
@@ -51,7 +51,7 @@ namespace H10ADOBlanco
 
         private void btnYield_Click(object sender, RoutedEventArgs e)
         {
-            JAMK.ICT.DBPalcebo2015 roskaa = new JAMK.ICT.DBPalcebo2015();
+            JAMK.ICT.JSON.JSONPlacebo2015 roskaa = new JAMK.ICT.JSON.JSONPlacebo2015();
             MessageBox.Show(roskaa.Yield());
         }
     }

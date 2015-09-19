@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace H10ADOBlanco
+namespace JAMK.ICT.ADOBlanco
 {
   /// <summary>
   /// Interaction logic for App.xaml
