@@ -27,7 +27,7 @@ namespace JAMK.ICT.Data
     public static DataTable GetAllCustomersFromSQLServer(string connectionStr, string taulu, out string viesti)
     {
         // basic principle: connect - execute query - disconnect
-        try
+        /*try
         {
             SqlConnection myConn = new SqlConnection(connectionStr);
             myConn.Open();
@@ -42,7 +42,35 @@ namespace JAMK.ICT.Data
         {
             viesti = ex.Message;
             throw;
-        }
+        }*/
+
+
+            using (SqlConnection conn = new SqlConnection(connectionStr))
+            {
+                conn.Open();
+                SqlCommand cmd = new SqlCommand("SELECT * FROM " + taulu, conn);
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
+                DataSet ds = new DataSet();
+                da.Fill(ds, taulu);
+                viesti = "Tiedot haettu onnistuneesti tietokannasta " + conn.DataSource;
+                return ds.Tables[taulu];
+            }
+
     }
+
+        public static DataTable GetCountriesFromSQLServer(string connectionString, string taulu, out string viesti)
+        {
+            using(SqlConnection conn = new SqlConnection(connectionString))
+            {
+                conn.Open();
+                SqlCommand cmd = new SqlCommand("SELECT DISTINCT city FROM " + taulu, conn);
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
+                DataSet ds = new DataSet();
+                da.Fill(ds, taulu);
+                viesti = "Onnistui";
+                return ds.Tables[taulu];
+            }
+        }
+
   }
 }
